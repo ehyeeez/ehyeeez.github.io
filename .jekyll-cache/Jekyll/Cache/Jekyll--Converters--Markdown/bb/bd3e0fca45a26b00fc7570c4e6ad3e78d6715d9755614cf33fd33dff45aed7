@@ -1,0 +1,86 @@
+I"1<p>OpS-EDU is an open source project. OpS-EDU is an educational website for open source learning. It provides simple theories and quizzes for students who are new to open source to understand open source easily. 
+It also provides search engines such as Word or Phrase searching and Fuzzy matching to help users find what they need faster. Our main goal is to become interested in and familiar with open source so that they can finally contribute to open source utilization. Come join us!</p>
+
+<p><a href="https://github.com/soeun72/Zoomrunfax.git"><button type="button" class="btn btn-secondary">DOWNLOAD <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1z"></path>
+</svg></button></a>
+<a href="https://zoomrunfax.readthedocs.io/en/main/"><button type="button" class="btn btn-dark">DOCUMENTATION <svg xmlns="https://zoomrunfax.readthedocs.io/en/main/" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path>
+</svg></button></a></p>
+
+<p><br /><br /><br />
+<br /><br /><br /></p>
+
+<h1 id="latest-posts"><strong>Latest Posts</strong></h1>
+<hr />
+
+<div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
+    <div class="card-body px-0 pt-0">
+        <h4 class="card-title mb-4">
+            <a href="/Zoomrunfax/jekyll/update/2022/12/05/Problem-Statement.html">Lecture 14</a>
+        </h4>
+        <h6 class="card-subtitle mb-3 text-secondary">
+            
+        </h6>
+        <div class="card-text d-flex align-items-center mb-2">
+            <span class="icon grey mr-2 mb-1">
+                
+            </span>
+            <div>
+                
+            </div>
+        </div>
+        <div class="card-text mb-0">
+            <p>We want to create a better web page by integrating the Movie app,</p>
+
+        </div>
+        <!-- <a href="/Zoomrunfax/jekyll/update/2022/12/05/Problem-Statement.html">More...</a> -->
+    </div>
+</div>
+
+<div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
+    <div class="card-body px-0 pt-0">
+        <h4 class="card-title mb-4">
+            <a href="/Zoomrunfax/jekyll/update/2022/12/04/Features-List.html">Lecture 13</a>
+        </h4>
+        <h6 class="card-subtitle mb-3 text-secondary">
+            
+        </h6>
+        <div class="card-text d-flex align-items-center mb-2">
+            <span class="icon grey mr-2 mb-1">
+                
+            </span>
+            <div>
+                
+            </div>
+        </div>
+        <div class="card-text mb-0">
+            <p>Searches plain text, HTML, and XML</p>
+
+        </div>
+        <!-- <a href="/Zoomrunfax/jekyll/update/2022/12/04/Features-List.html">More...</a> -->
+    </div>
+</div>
+
+<div class="card card-post w-100 border-top-0 border-left-0 border-right-0 rounded-0 mb-4">
+    <div class="card-body px-0 pt-0">
+        <h4 class="card-title mb-4">
+            <a href="/Zoomrunfax/jekyll/update/2022/12/04/Contributor.html">Lecture 12</a>
+        </h4>
+        <h6 class="card-subtitle mb-3 text-secondary">
+            
+        </h6>
+        <div class="card-text d-flex align-items-center mb-2">
+            <span class="icon grey mr-2 mb-1">
+                
+            </span>
+            <div>
+                
+            </div>
+        </div>
+        <div class="card-text mb-0">
+            <p>Group 07</p>
+
+        </div>
+        <!-- <a href="/Zoomrunfax/jekyll/update/2022/12/04/Contributor.html">More...</a> -->
+    </div>
+</div>
+:ET
